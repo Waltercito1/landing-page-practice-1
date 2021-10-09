@@ -1,5 +1,5 @@
 # Landing Page #1 - Practice 
-Practicing how to make a landing page using HTML, SCSS, and JavaScript in an effort to close some of the styling knowledge gaps I ahve identified after finishing a Full Stack Software Engineering Bootcamp at Flat Iron School.
+Practicing how to make a landing page using HTML, SCSS, and JavaScript in an effort to close some of the styling knowledge gaps I have identified after finishing a Full Stack Software Engineering Bootcamp at Flat Iron School.
 
 ## Usage
 TBD ...
